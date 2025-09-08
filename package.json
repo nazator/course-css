@@ -1,0 +1,25 @@
+{
+  "name": "@nazator/course-css",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nazator CSS course content and metadata",
+  "license": "SEE LICENSE IN LICENSE",
+  "codeLicense": "MIT",
+  "homepage": "https://github.com/nazator/course",
+  "author": {
+    "name": "KazViz",
+    "email": "kaz@kazviz.com",
+    "url": "https://kazviz.com"
+  },
+  "bugs": {
+    "url": "https://github.com/nazator/course/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazator/course.git",
+    "directory": "content/css"
+  },
+  "engines": {
+    "bun": ">=1.2.0"
+  }
+}
